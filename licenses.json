@@ -41,6 +41,12 @@
       "company": "Eletool",
       "created": "2026-03-10",
       "expires": "2027-03-10"
+    },
+    "PBSZ-NRXU": {
+      "active": true,
+      "device": "36e3772f-0d15-4bbd-aa7c-40bf5095916b",
+      "owner": "Juhani",
+      "created": "2026-03-10"
     }
   }
 }
