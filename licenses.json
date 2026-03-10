@@ -5,6 +5,10 @@
     "K8F3-9ALA": {
       "active": true,
       "device": ""
+    },
+    "YVBL-H7C7": {
+      "active": true,
+      "device": "50e479f4-eaf6-49d3-8f1b-966ea699aaee"
     }
   }
 }
