@@ -4,25 +4,43 @@
   "licenses": {
     "K8F3-9ALA": {
       "active": true,
-      "device": ""
+      "device": "",
+      "owner": "",
+      "company": "",
+      "created": "",
+      "expires": ""
     },
     "YVBL-H7C7": {
       "active": true,
-      "device": "50e479f4-eaf6-49d3-8f1b-966ea699aaee"
+      "device": "50e479f4-eaf6-49d3-8f1b-966ea699aaee",
+      "owner": "",
+      "company": "",
+      "created": "",
+      "expires": ""
     },
     "4LQ9-9VVL": {
       "active": true,
-      "device": "3a612537-fbad-49ef-83eb-a2e6e9b75b92"
+      "device": "3a612537-fbad-49ef-83eb-a2e6e9b75b92",
+      "owner": "",
+      "company": "",
+      "created": "",
+      "expires": ""
     },
     "8YJG-HEYT": {
       "active": true,
-      "device": "b2ec9e80-65a8-4944-a1c5-45a759c3f47f"
+      "device": "b2ec9e80-65a8-4944-a1c5-45a759c3f47f",
+      "owner": "",
+      "company": "",
+      "created": "",
+      "expires": ""
     },
     "CTER-R2RV": {
       "active": true,
       "device": "87e06a60-a64b-4ded-8fd9-a8a1b1dbc1cc",
       "owner": "Veikko",
-      "created": "2026-03-10"
+      "company": "Eletool",
+      "created": "2026-03-10",
+      "expires": "2027-03-10"
     }
   }
 }
