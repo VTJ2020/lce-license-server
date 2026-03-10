@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "disclaimerVersion": "1.0",
+  "licenses": {
+    "101": {
+      "active": true,
+      "device": ""
+    },
+    "105": {
+      "active": true,
+      "device": ""
+    }
+  }
+}
