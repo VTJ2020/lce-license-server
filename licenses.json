@@ -53,6 +53,12 @@
       "device": "c0643377-d8a8-43d0-b9a4-efb92d06ea5d",
       "owner": "Vee työ",
       "created": "2026-03-11"
+    },
+    "K7TX-ZB8V": {
+      "active": true,
+      "device": "68a46b90-3ec7-4d18-98d9-cf6261d8d5b1",
+      "owner": "Hn",
+      "created": "2026-03-11"
     }
   }
 }
